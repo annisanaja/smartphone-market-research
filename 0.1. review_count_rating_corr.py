@@ -28,7 +28,7 @@ sns.scatterplot(
 df_sorted = df.sort_values("review_count")
 plt.plot(df_sorted["review_count"], model.predict(df_sorted[["review_count"]]), color="darkred")
 
-plt.title("Price vs Rating — Do products with more reviews have better or worse ratings?")
+plt.title("Review Counts vs Rating — Do products with more reviews have better or worse ratings?")
 plt.xlabel("Count Reviews")
 plt.ylabel("Rating")
 
