@@ -72,7 +72,7 @@ However, products with very few reviews show extreme rating variance (2.0 to 5.0
 - Amazon sits in between
 - Asian brands (Xiaomi, Oppo, Realme, vivo, Infinix) exist exclusively on Tokopedia
 
-> *"Tokopedia serves everyone; Best Buy serves premium buyers, Amazon sits in between, platform choice reflects the income profile of each market."*
+> *"Tokopedia serves everyone, Best Buy serves premium buyers, Amazon sits in between. Platform choice reflects the income profile of each market."*
 
 ---
 
