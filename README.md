@@ -125,10 +125,10 @@ python 0_1_review_count_rating_corr.py
 smartphone-market-research/
 │
 ├── scrapers/
-│   ├── ultimate web scraper (chrome extension for Amazon web scraping)
+│   ├── ultimate web scraper 
 │   ├── bestbuy_scraper.py
 │   ├── tokopedia_scraper.py
-|   └── phone_brands.py (scraping listings of phone brands from gsmarena)
+|   └── phone_brands.py
 │
 ├── analysis/
 │   ├── 0_price_rating_corr.py
