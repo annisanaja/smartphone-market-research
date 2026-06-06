@@ -15,7 +15,7 @@ Consumers and brands alike assume that price is a signal of quality, that premiu
 
 | Platform | Region | Listings (Clean) |
 |---|---|---|
-| Amazon | US | 132 |
+| Amazon | Worldwide | 132 |
 | Best Buy | US | 123 |
 | Tokopedia | Indonesia | 1026 |
 | **Total** | | 1281 |
