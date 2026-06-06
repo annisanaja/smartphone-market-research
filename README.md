@@ -30,7 +30,9 @@ Consumers and brands alike assume that price is a signal of quality, that premiu
 ### Does price affect customer satisfaction?
 > *"Do more expensive smartphones get rated higher?"*
 
-**Finding: No. R² = 0.0008, price explains less than 0.1% of rating variance.**
+<img width="641" height="401" alt="image" src="https://github.com/user-attachments/assets/c68dbe97-0a10-4767-9a1a-de2f4cae4d21" />
+
+**Finding: No. R² = 0.0009, price explains less than 0.1% of rating variance.**
 
 A $1,000 iPhone and a $150 budget phone are equally likely to receive the same rating. Customer satisfaction is driven by expectation vs. reality, not absolute price.
 
@@ -56,6 +58,8 @@ A $1,000 iPhone and a $150 budget phone are equally likely to receive the same r
 ---
 
 ### Do products with more reviews rate better or worse?
+
+<img width="641" height="400" alt="image" src="https://github.com/user-attachments/assets/a87c4da8-63d0-47ad-92b9-67741dbcfd8d" />
 
 **Finding: Neither. R² = 0.0023, review counts weakly affected rating.**
 
