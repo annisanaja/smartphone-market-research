@@ -57,7 +57,7 @@ A $1,000 iPhone and a $150 budget phone are equally likely to receive the same r
 
 ### Do products with more reviews rate better or worse?
 
-**Finding: Neither. R² = 0.0023, review counts weakly affected rating, meaning more reviews doesn't mean more customers satisfaction.**
+**Finding: Neither. R² = 0.0023, review counts weakly affected rating.**
 
 However, products with very few reviews show extreme rating variance (2.0 to 5.0), while high-review products stabilize around 3.5-5.0. Products that survive long enough to accumulate reviews tend to be good ones.
 
