@@ -70,8 +70,8 @@ However, products with very few reviews show extreme rating variance (2.0 to 5.0
 
 **Finding: Yes, but due to model availability, not price gouging.**
 
-- Tokopedia serves every segment: Rp 189,000 (Samsung entry) to Rp 1,060,000,000 (Vertu luxury)
-- Best Buy skews premium: Samsung up to Rp 35.9M, Google up to Rp 29.3M
+- Tokopedia serves every segment: IDR 189,000 (Samsung entry) to IDR 1,060,000,000 (Vertu luxury)
+- Best Buy skews premium: Samsung up to IDR 35.9M, Google up to IDR 29.3M
 - Amazon sits in between
 - Asian brands (Xiaomi, Oppo, Realme, vivo, Infinix) exist exclusively on Tokopedia
 
@@ -151,7 +151,7 @@ smartphone-market-research/
 
 ## 💡 Key Takeaway
 
-> **Price is not a proxy for satisfaction.** Across 1,200+ listings on three platforms, R² = 0.0008 between price and rating. Mid-range phones deliver the highest customer satisfaction, Premium phones the lowest. Brands competing in the Rp 9M–15M range face the hardest challenge: customers arrive with high expectations and leave disappointed more often than any other tier.
+> **Price is not a proxy for satisfaction.** Across 1,200+ listings on three platforms, R² = 0.0008 between price and rating. Mid-range phones deliver the highest customer satisfaction, Premium phones the lowest. Brands competing in the IDR 9M–15M range face the hardest challenge: customers arrive with high expectations and leave disappointed more often than any other tier.
 
 ---
 
@@ -159,7 +159,7 @@ smartphone-market-research/
 
 Based on the analysis of 1,200+ smartphone listings across Amazon, Best Buy, and Tokopedia, the following recommendations are proposed:
 - **Decouple pricing strategy from satisfaction assumptions** Price alone does not drive customer satisfaction. Brands should invest in post-purchase experience, software support, after-sales service, and community, rather than relying on premium pricing as a quality signal.
-- **Prioritize the mid-range segment (Rp 4,500,000 – Rp 9,000,000)** Brands seeking to build long-term customer loyalty should concentrate their strongest value propositions in this segment.
+- **Prioritize the mid-range segment (IDR 4,500,000 – IDR 9,000,000)** Brands seeking to build long-term customer loyalty should concentrate their strongest value propositions in this segment.
 - **Address the Premium tier underperformance** A brand risk. Customers at this price expect flagship experience with elevated expectations, failure to meet them results in disproportionate dissatisfaction and negative reviews.
 - **Shift focus from review volume to review quality** Brands should prioritize resolving negative feedback promptly rather than incentivizing review quantity.
 - **Align platform strategy with regional market behavior** Tokopedia serves the broadest market segment, reflecting Indonesia's diverse income landscape. Amazon and Best Buy skew toward mid to premium segments, suggesting that brands entering Western markets should lead with flagship or mid-premium offerings rather than budget lines. A platform-specific portfolio strategy will better capture demand across regions.
