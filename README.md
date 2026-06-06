@@ -59,7 +59,8 @@ A $1,000 iPhone and a $150 budget phone are equally likely to receive the same r
 
 ### Do products with more reviews rate better or worse?
 
-<img width="704" height="424" alt="image" src="https://github.com/user-attachments/assets/a8c4f5e4-b293-4c6f-8173-5b446f7c0080" />
+<img width="641" height="401" alt="image" src="https://github.com/user-attachments/assets/a8c4f5e4-b293-4c6f-8173-5b446f7c0080" />
+
 
 **Finding: Neither. R² = 0.0023, review counts weakly affected rating.**
 
