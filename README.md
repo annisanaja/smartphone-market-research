@@ -62,7 +62,7 @@ A $1,000 iPhone and a $150 budget phone are equally likely to receive the same r
 [bestbuy_scrape.py](https://github.com/user-attachments/files/28659425/bestbuy_scrape.py)
  weakly affected rating, meaning more reviews doesn't mean more customers satisfaction.**
 
-However, products with very few reviews show extreme rating variance (2.0 to 5.0), while high-review products stabilize around 3.5–5.0. Products that survive long enough to accumulate reviews tend to be good ones.
+However, products with very few reviews show extreme rating variance (2.0 to 5.0), while high-review products stabilize around 3.5-5.0. Products that survive long enough to accumulate reviews tend to be good ones.
 
 ---
 
