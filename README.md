@@ -1,4 +1,4 @@
-# 📱 Smartphone Market Research — Cross-Platform Price & Satisfaction Analysis
+# 📱 Smartphone Market Research: Cross-Platform Price & Satisfaction Analysis
 Cross-platform smartphone market research analyzing 1,300+ listings across Amazon, Best Buy, and Tokopedia. Investigating the relationship between price, ratings, and customer satisfaction using Excel, Python, SQL, and pandas.
 
 > **Does paying more for a smartphone actually make you happier?** This project investigates pricing, ratings, and customer satisfaction across Amazon, Best Buy, and Tokopedia using web scraping, SQL, and Python.
