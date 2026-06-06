@@ -25,7 +25,7 @@ def deep_find_products(obj):
     return found
 
 
-# RATING + SOLD PARSERS
+# rating + sold parsers
 
 def extract_rating_from_text(text):
     if not text:
@@ -62,7 +62,7 @@ with sync_playwright() as p:
     page = context.new_page()
 
     
-    # CAPTURE JSON
+    # capture json
     
     def on_response(response):
         try:
@@ -79,15 +79,15 @@ with sync_playwright() as p:
     page.goto(URL, wait_until="domcontentloaded")
     page.wait_for_timeout(10000)
 
-    # Scroll to bottom + click "Muat Lebih Banyak"
+    # scroll to bottom + click "Muat Lebih Banyak"
     for click_round in range(20): # exactly 20 times
         print(f"Round {click_round + 1}/3 — scrolling to bottom...")
 
-        # Scroll to bottom
+        # scroll to bottom
         page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
         page.wait_for_timeout(3000)
 
-        # Try to click the load more button
+        # try to click the load more button
         button_found = False
         for label in ["Muat Lebih Banyak", "Load More", "Lihat Lebih Banyak"]:
             try:
@@ -116,7 +116,7 @@ with sync_playwright() as p:
             except:
                 print(f"  ✗ JS click also failed — skipping round")
 
-    # Final scroll to capture everything loaded
+    # final scroll to capture everything loaded
     print("Final scroll to capture all loaded products...")
     for step in range(1, 10):
         page.evaluate(f"window.scrollTo(0, {step * 800})")
@@ -128,7 +128,7 @@ with sync_playwright() as p:
     print("Browser closed.")
 
 
-# ANALYZE DATA
+# analyze data
 
 print("Captured responses:", len(captured))
 
@@ -154,7 +154,7 @@ for blob in captured:
             pass
 
 
-# EXPORT
+# export
 
 df = pd.DataFrame(products).drop_duplicates()
 
