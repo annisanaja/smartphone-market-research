@@ -124,8 +124,7 @@ python 0_1_review_count_rating_corr.py
 ```
 smartphone-market-research/
 │
-├── scrapers/
-│   ├── ultimate web scraper 
+├── scrapers/ 
 │   ├── bestbuy_scraper.py
 │   ├── tokopedia_scraper.py
 |   └── phone_brands.py
